@@ -2,7 +2,8 @@
   "name": "password-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Jeetesh36/Password-Generator-App.git",
+  "homepage": "https://jeetesh36.github.io/Password-Generator-App"
+,
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
