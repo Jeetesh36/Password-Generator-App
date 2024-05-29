@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jeetesh36/Password-Generator-App.git/static/css/main.5b2b419a.css",
+    "main.js": "/Jeetesh36/Password-Generator-App.git/static/js/main.d05e7aa6.js",
+    "static/js/453.02c29438.chunk.js": "/Jeetesh36/Password-Generator-App.git/static/js/453.02c29438.chunk.js",
+    "index.html": "/Jeetesh36/Password-Generator-App.git/index.html",
+    "main.5b2b419a.css.map": "/Jeetesh36/Password-Generator-App.git/static/css/main.5b2b419a.css.map",
+    "main.d05e7aa6.js.map": "/Jeetesh36/Password-Generator-App.git/static/js/main.d05e7aa6.js.map",
+    "453.02c29438.chunk.js.map": "/Jeetesh36/Password-Generator-App.git/static/js/453.02c29438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2b419a.css",
+    "static/js/main.d05e7aa6.js"
+  ]
+}
